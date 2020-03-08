@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be645bff-25d5-4306-a432-8dc92423072e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YaRAKTmI8pB6QTdlieUW65fiNa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../it-academy-homework-2" />
+  </component>
+  <component name="RunManager" selected="Application.CircleDimensions">
+    <configuration name="AgeDiscount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.AgeDiscount" />
+      <module name="it-academy-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleDimensions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.CircleDimensions" />
+      <module name="it-academy-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaLogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.JavaLogo" />
+      <module name="it-academy-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.NumberComparison" />
+      <module name="it-academy-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.WeekDay" />
+      <module name="it-academy-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AgeDiscount" />
+      <item itemvalue="Application.CircleDimensions" />
+      <item itemvalue="Application.JavaLogo" />
+      <item itemvalue="Application.NumberComparison" />
+      <item itemvalue="Application.WeekDay" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CircleDimensions" />
+        <item itemvalue="Application.WeekDay" />
+        <item itemvalue="Application.NumberComparison" />
+        <item itemvalue="Application.AgeDiscount" />
+        <item itemvalue="Application.JavaLogo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be645bff-25d5-4306-a432-8dc92423072e" name="Default Changelist" comment="" />
+      <created>1583178574433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583178574433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="247" width="407" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583181429547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="247" width="407" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583181429547" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1583662032407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583662032407" />
+    <state width="1321" height="174" key="GridCell.Tab.0.bottom" timestamp="1583182886049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583182886049" />
+    <state width="1321" height="174" key="GridCell.Tab.0.center" timestamp="1583182886049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583182886049" />
+    <state width="1321" height="174" key="GridCell.Tab.0.left" timestamp="1583182886049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583182886049" />
+    <state width="1321" height="174" key="GridCell.Tab.0.right" timestamp="1583182886049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583182886049" />
+    <state x="31" y="84" key="com.intellij.ide.util.TipDialog" timestamp="1583661415607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="31" y="84" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583661415607" />
+    <state x="43" y="0" key="new project wizard" timestamp="1583351895486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="43" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583351895486" />
+  </component>
+</project>
